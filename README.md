@@ -4,7 +4,7 @@ Turn your Google Drive or other "Cloud Storage" into a Network Attached Storage,
 Features:
 - Combine mutliple Drives using Raid strategies! Including from different providers.
 
-**namespace:** UniDrive NAS
+**namespace:** `UniDrive.NAS`
 
 ## Alt name:
 - GDrive-NAS

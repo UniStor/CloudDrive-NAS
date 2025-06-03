@@ -6,3 +6,7 @@ Features:
 
 ## Alt name:
 - GDrive-NAS
+- CloudDrive-NAS
+
+## parent:
+This is a standalone "minimalist" app! But all of it's features are part of the larger UniDrive Aka "UnicornDrive" Mobile app.
